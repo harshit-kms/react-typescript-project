@@ -1,0 +1,58 @@
+{
+  "heroes": [
+    {
+      "title": "Thor",
+      "universe": "MCU",
+      "id": "1",
+      "class": "top"
+    },
+    {
+      "title": "Ironman",
+      "universe": "MCU",
+      "id": "2",
+      "class": "top"
+    },
+    {
+      "title": "Batman",
+      "universe": "DC",
+      "id": "3",
+      "class": "top"
+    },
+    {
+      "title": "Superman",
+      "universe": "DC",
+      "id": "4",
+      "class": "top"
+    },
+    {
+      "title": "Antman",
+      "universe": "MCU",
+      "id": "5",
+      "class": ""
+    },
+    {
+      "title": "Captain America",
+      "universe": "MCU",
+      "id": "6",
+      "class": ""
+    },
+    {
+      "title": "Flash",
+      "universe": "DC",
+      "id": "7",
+      "class": ""
+    },
+    {
+      "title": "Wonder Woman",
+      "universe": "DC",
+      "id": "8",
+      "class": ""
+    },
+    {
+      "title": "Hulk",
+      "universe": "MCU",
+      "id": "9",
+      "class": ""
+    }
+  ]
+}
